@@ -276,6 +276,7 @@ public:
 int main() {
     StudentLMS lms;
     int choice;
+    cout<<"Welcome to Student LMS\n"
 
     do {
         cout << "\nStudent LMS Menu\n";
